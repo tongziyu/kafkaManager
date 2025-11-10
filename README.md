@@ -1,1 +1,1 @@
-https://img.shields.io/badge/language-python-brightgreen
+![](https://img.shields.io/badge/language-python-brightgreen)
