@@ -1,5 +1,6 @@
 # 一款基于PyQt5实现的轻量级kafka图形化界面管理工具
-![](https://img.shields.io/badge/language-python-brightgreen)
+![](https://img.shields.io/badge/language-python-brightgreen) 
+
 使用截图：
 主页：
 <img width="1276" height="728" alt="image" src="https://github.com/user-attachments/assets/19362110-4e94-4fbd-8b4f-0e7f4b5ddf2b" />
